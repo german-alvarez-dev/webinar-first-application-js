@@ -2,8 +2,8 @@
 En este repositorio encontrarás todos los materiales desarrollados durante el Webinar, y un par de retos para que resuelvas por tu cuenta.
 
 ## Cómo descargar los códigos del webinar
-- Haz click sobre el botón verde en la esquina superior derecha Clone or download
-- Selecciona Download ZIP
+- Haz click sobre el botón verde en la esquina superior derecha **Code**
+- Selecciona *Download ZIP*
 - Descarga y descomprime los archivos
 
 ## Cómo ejecutar la aplicación
