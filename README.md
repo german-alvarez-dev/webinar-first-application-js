@@ -20,6 +20,7 @@ Una vez hayas visualizado de nuevo la grabación del Webinar y hayas asentado lo
 Sería genial poder ver a tiempo real la cantidad de tareas pendientes en la aplicación, ¿verdad?
 
 - Sustituye el subtítulo de nuestra aplicación con el siguiente código: 
+
   `<p>Listado de tareas pendientes (<span class="pending">0</span> tareas en total)</p>`
 - Declara una función de nombre `updatePendingTasksValue` que actualice el `0` del subtítulo con la cantidad de tareas pendientes del Array. Pistas: 
   - Dispones de la clase `pending` para seleccionar desde Javascript la etiqueta y actualizar su valor con `.innerHTML`, tal y como hemos hecho en el webinar.
