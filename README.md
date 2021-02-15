@@ -17,7 +17,7 @@ Una vez hayas visualizado de nuevo la grabación del Webinar y hayas asentado lo
 
 
 ## Primer reto: cantidad de tareas pendientes
-Sería genial poder ver a tiempo real la cantidad de tareas pendientes en la aplicación, ¿verdad?. Al lío!:
+Sería genial poder ver a tiempo real la cantidad de tareas pendientes en la aplicación, ¿verdad?
 
 - Sustituye el subtítulo de nuestra aplicación con el siguiente código: `<p>Listado de tareas pendientes (<span class="pending">0</span> tareas en total)</p>`
 - Declara una función de nombre `updatePendingTasksValue` que actualice el `0` del subtítulo con la cantidad de tareas pendientes del Array. Pistas: 
